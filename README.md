@@ -1,5 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Sources and other good stuff
+
+[https://www.youtube.com/watch?v=itMhGwiLrrs](https://www.youtube.com/watch?v=itMhGwiLrrs)
+
+[https://arry.medium.com/how-to-add-react-native-web-to-an-existing-react-native-project-eb98c952c12f](https://arry.medium.com/how-to-add-react-native-web-to-an-existing-react-native-project-eb98c952c12f)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
