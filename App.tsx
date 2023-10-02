@@ -6,6 +6,9 @@ const App = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Hello my lich from {'\n'}React Native Web!</Text>
+
+      <Text style={styles.title}>We will rock</Text>
+
       <TouchableOpacity
         onPress={() => setCount(count + 1)}
         style={styles.button}>
